@@ -49,9 +49,7 @@ else:
     print("Warning! Objects Over flow will happen in the conveyor")
 print("--------------------------------------------------------------")
 ```
-## Experiment :
 
-![Screenshot 2025-05-20 135404](https://github.com/user-attachments/assets/40a1df64-3246-4bee-886a-9ca8c05504ab)# Multiple server with infinite capacity - (M/M/c):(oo/FIFO)
 ## Output :
 
 ![Screenshot 2025-05-20 135404](https://github.com/user-attachments/assets/295a0286-264b-49b7-a398-6d9095622e18)
